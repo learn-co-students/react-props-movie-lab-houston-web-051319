@@ -53,7 +53,7 @@ const movieData = [
     IMDBRating: 5,
     genres: ['crime', 'period piece'],
     poster: 'the-trash-man'
-  },
+  }
 ]
 
 export default movieData
